@@ -65,7 +65,7 @@
             android:id="@+id/textView11"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/title1"
+            android:text="@string/title2"
             android:textSize="20sp"
             android:textStyle="bold"
             android:background="#00FFFF"/>
@@ -92,9 +92,10 @@
         </LinearLayout>
     </LinearLayout>
 
+
     <LinearLayout
         android:id="@+id/audio3"
-        android:tag="2"
+        android:tag="3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingTop="2dp"
